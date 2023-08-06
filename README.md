@@ -16,4 +16,4 @@ If you want to update the main branch in your local repository to match the remo
 
 After updating your local main branch, you can also push the changes to the remote repository to synchronize the main branch on GitHub with the updated local main branch.
 
-Remember that git merge main affects your current local branch, not the main branch in the remote repository. To update the remote main branch, you need to push the changes from your local feature branch (which now includes the merged changes) to the remote main branch.
+Remember that git merge main affects your current local branch, not the main branch in the remote repository. To update the remote main branch, you need to push the changes from your local feature branch (which now includes the merged changes) to the remote main branch...
